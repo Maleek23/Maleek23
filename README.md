@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/malik-banner.gif" alt="Malik Ajisegiri Banner" width="100%" />
 </p>
-
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3MW1nOTVpdHoxa3R6Z3RlN2lrMjduY2owNW1oZjdvOThkMHZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif
 <h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/malikajisegiri/" target="_blank">Malik</a> 👋🏾</h1>
 <h3 align="center">Systems Engineer • Model Risk Engineer (GenAI) • Creative Technologist</h3>
 
