@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/malik-banner.gif" alt="Malik Ajisegiri Banner" width="100%" />
 </p>
----
 
 ### 🌌 Portal Energy
 
