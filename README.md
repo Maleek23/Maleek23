@@ -1,131 +1,162 @@
-<!-- Hero Banner -->
+<!-- Cinematic Hero Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/malik-banner.gif" alt="Malik Ajisegiri Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/malik-banner.gif" width="100%" alt="Banner" />
 </p>
 
+<div align="center">
+   <h1>Hey, I'm <a href="https://www.linkedin.com/in/malikajisegiri/">Malik</a> 👋🏾 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3MW1nOTVpdHoxa3R6Z3RlN2lrMjduY2owNW1oZjdvOThkMHZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" width="600px" alt="UN/TITLD Portal GIF" />
+  <a href="mailto:abdulmalikajisegiri@gmail.com"><img height="30" src="https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail&logoColor=red"></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/malikajisegiri/"><img height="30" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=blue"></a>&nbsp;&nbsp;
+  <a href="https://github.com/Maleek23"><img height="30" src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"></a>
 </p>
-
-<p align="center"><em>This is the moment between thought and transformation — a dimensional shift encoded into every slash <code>/</code>.</em></p>
-<h1 align="center">Hey, I'm <a href="https://www.linkedin.com/in/malikajisegiri/" target="_blank">Malik</a> 👋🏾</h1>
-<h3 align="center">Systems Engineer • Model Risk Engineer (GenAI) • Creative Technologist</h3>
-
-<p align="center"><em>“The <code>/</code> in <strong>UN/TITLD</strong> this is the moment between thought and transformation — a dimensional shift encoded into every slash”</em></p>
 
 ---
 
-<!-- Social Buttons -->
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> AI Engineer | Systems Thinker | GenAI Risk Strategist | Visual Storyteller <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+
+<h5 align="center">
+   <i>Designing intelligent systems, telling stories through code, and capturing motion through stillness. I exist in the in-between — where tech meets identity.</i>
+</h5>
+
+---
+
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3MW1nOTVpdHoxa3R6Z3RlN2lrMjduY2owNW1oZjdvOThkMHZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" />
+
+### 🧩 I’m currently:
+- 🛠 **Systems Engineer @ Collins Aerospace** (Secret Cleared – MBSE, MIL-STD, RF systems)  
+- 🧠 **Model Risk Engineer @ DTCC** (focused on Generative AI evaluation & LLM safety)  
+- 🎨 Founder of **UN/TITLD** – creative identity collective blending motion + meaning  
+- 🧪 Research: ML metaheuristics • Simulation modeling • Embedded AI systems  
+- 🧘🏾‍♂️ Documenting this journey through visuals, rhythm, and pure tech
+
+---
+
+## ⚙️ Tech Stack — My Tools of Thought
+
+### 💻 Programming Languages
 <p align="center">
-  <a href="mailto:abdulmalikajisegiri@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/malikajisegiri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Maleek23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARM%20Assembly-666?style=for-the-badge" />
+</p>
+
+### 🧠 AI / ML / GenAI
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM-GenAI-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-Transformers-informational?style=for-the-badge" />
+</p>
+
+### 🛰 Systems Engineering + Modeling
+<p align="center">
+  <img src="https://img.shields.io/badge/Jama-Requirements-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cameo%20Modeler-MBSE-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zemax-Optical%20Design-red?style=for-the-badge" />
+</p>
+
+### ☁️ Cloud & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</p>
+
+### 🧰 Dev Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 📸 Creative & Visual Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Lightroom-1DA1F2?style=for-the-badge&logo=adobelightroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 Featured Projects
 
-- 🎓 **MS in Systems Engineering @ OU** | **BS in Computer Engineering @ UTA**
-- 🔐 DoD Cleared **Systems Engineer** – RF Comms | Mission Systems | MBSE | MIL-STD
-- 📊 **Model Risk Engineering (GenAI)** – NLP, LLM evaluation, explainability, model safety
-- 🧪 Research in metaheuristics, simulation modeling, predictive healthcare ML
-- 🌀 Founder of **UN/TITLD** – creative tech collective exploring identity + systems
-
----
-
-### ⚒️ Tech Stack (w/ Visuals)
-
-#### 👨🏾‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/ARM%20Assembly-gray?style=flat-square" />
-</p>
-
-#### 🔬 AI / ML / GenAI
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-BERT-yellow?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-GenAI-blueviolet?style=flat-square" />
-</p>
-
-#### 📐 Systems Engineering
-<p>
-  <img src="https://img.shields.io/badge/MBSE-Cameo-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Jama-Requirements-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Simulink-0076A8?style=flat-square&logo=mathworks" />
-  <img src="https://img.shields.io/badge/Modeling-Zemax-red?style=flat-square" />
-</p>
-
-#### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white" />
-</p>
-
-#### 🧰 Dev Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-F76935?style=flat-square&logo=postman&logoColor=white" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-#### 💸 BudgyAI – *AI-powered personal finance assistant*
-- Built with LLMs + TensorFlow
-- Forecasts spending, automates budgeting, and teaches savings  
+### 💸 BudgyAI
+An AI-powered budgeting assistant using LLMs + TensorFlow  
 ![BudgyAI Preview](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/budgyai-preview.gif)
 
----
+### 🌱 PocketTree  
+A finance tracker that grows with you — literally. Visualizes savings as a tree.  
+![PocketTree](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/pockettree-preview.gif)
 
-#### 🌱 PocketTree – *Grow your finances like a tree*
-- Mobile UI (Flutter) that transforms transactions into visual growth  
-![PocketTree Preview](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/pockettree-preview.gif)
-
----
-
-#### 🌀 UN/TITLD – *Creative Collective*
-- Minimalist, mystique, identity-driven visual storytelling  
-![UN/TITLD Slash](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/untitld-slash.gif)
+### 🌀 UN/TITLD  
+A minimalist brand focused on identity, transformation, and surreal storytelling  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/untitld-slash.gif" height="120" />
+</p>
 
 ---
 
-### 🧾 Certifications
-- ✅ [CISA – Certified Info Systems Auditor](https://www.credly.com/badges/0ee8fad4-9207-4632-9639-c07e6d34e71b/public_url)
-- ✅ MATLAB / Simulink Certified
-- 🏛 Member – NSBE, ISACA
+## 📷 Photography & Visual Identity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/untitld-photography-banner.gif" width="600px" alt="UN/TITLD Photography" />
+</p>
+
+As part of **UN/TITLD**, I capture movement, emotion, and space through visual language.  
+I shoot in digital + 35mm film, blending narrative, composition, and identity.
+
+- 🎞️ Art direction, short form cinematics, surreal stills
+- 🔍 Exploration of isolation, energy, faith, and culture
+- 🔗 [Instagram](https://instagram.com/unathleticz) | [TikTok](https://tiktok.com/@unathleticz)
 
 ---
 
-### 📊 GitHub Stats
+## 📜 Certifications & Affiliations
+
+- ✅ [CISA – Certified Info Systems Auditor](https://www.credly.com/badges/0ee8fad4-9207-4632-9639-c07e6d34e71b/public_url)  
+- 🧠 MATLAB / Simulink Certified  
+- 🏛 NSBE • ISACA • Systems Engineering Society  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Maleek23&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Personal Philosophy
-
-> “The slash `/` isn’t a divider. It’s a dimension shift.  
-> Where systems meet story, and art becomes architecture.” — *UN/TITLD*
+### 💬 Fun Fact  
+> *“The slash `/` is not a separator. It’s a portal between who I am and what I could become.”* — *UN/TITLD*
 
 ---
 
+<h2 align="center">🤝 Let’s Build Something Timeless</h2>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" />
+   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
+</p>
+
+<p align="center">Made with 🔐 logic, ✨ magic, and ❤️ in between</p>
+
+<h1 align="center">⚡️ Stay Legendary ⚡️</h1>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Banner" />
 </p>
