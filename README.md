@@ -27,18 +27,18 @@
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3MW1nOTVpdHoxa3R6Z3RlN2lrMjduY2owNW1oZjdvOThkMHZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" />
 
-### 🧩 I’m currently:
-- 🛠 **Systems Engineer @ Collins Aerospace** (Secret Cleared – MBSE, MIL-STD, RF systems)  
-- 🧠 **Model Risk Engineer @ DTCC** (focused on Generative AI evaluation & LLM safety)  
-- 🎨 Founder of **UN/TITLD** – creative identity collective blending motion + meaning  
-- 🧪 Research: ML metaheuristics • Simulation modeling • Embedded AI systems  
-- 🧘🏾‍♂️ Documenting this journey through visuals, rhythm, and pure tech
+###  I’m currently:
+-  **Systems Engineer @ Collins Aerospace** (MBSE, MIL-STD, RF systems)  
+-  **Model Risk Engineer @ DTCC** (focused on Generative AI evaluation & LLM safety)  
+-  Founder of **UN/TITLD** – creative identity collective blending motion + meaning  
+-  Research: ML metaheuristics • Simulation modeling • Embedded AI systems  
+-  Documenting this journey through visuals, rhythm, and pure tech
 
 ---
 
-## ⚙️ Tech Stack — My Tools of Thought
+##  Tech Stack — My Tools of Thought
 
-### 💻 Programming Languages
+###  Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -47,7 +47,7 @@
   <img src="https://img.shields.io/badge/ARM%20Assembly-666?style=for-the-badge" />
 </p>
 
-### 🧠 AI / ML / GenAI
+###  AI / ML / GenAI
 <p align="center">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/NLP-Transformers-informational?style=for-the-badge" />
 </p>
 
-### 🛰 Systems Engineering + Modeling
+###  Systems Engineering + Modeling
 <p align="center">
   <img src="https://img.shields.io/badge/Jama-Requirements-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cameo%20Modeler-MBSE-blue?style=for-the-badge" />
@@ -64,14 +64,14 @@
   <img src="https://img.shields.io/badge/Zemax-Optical%20Design-red?style=for-the-badge" />
 </p>
 
-### ☁️ Cloud & Infrastructure
+###  Cloud & Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
-### 🧰 Dev Tools
+###  Dev Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
@@ -80,7 +80,7 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 </p>
 
-### 📸 Creative & Visual Tools
+###  Creative & Visual Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Lightroom-1DA1F2?style=for-the-badge&logo=adobelightroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
@@ -93,42 +93,16 @@
 
 ## 🚀 Featured Projects
 
-### 💸 BudgyAI
-An AI-powered budgeting assistant using LLMs + TensorFlow  
-![BudgyAI Preview](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/budgyai-preview.gif)
-
-### 🌱 PocketTree  
-A finance tracker that grows with you — literally. Visualizes savings as a tree.  
-![PocketTree](https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/pockettree-preview.gif)
-
-### 🌀 UN/TITLD  
-A minimalist brand focused on identity, transformation, and surreal storytelling  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/untitld-slash.gif" height="120" />
 </p>
 
----
-
-## 📷 Photography & Visual Identity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Maleek23/Maleek23/main/assets/untitld-photography-banner.gif" width="600px" alt="UN/TITLD Photography" />
-</p>
-
-As part of **UN/TITLD**, I capture movement, emotion, and space through visual language.  
-I shoot in digital + 35mm film, blending narrative, composition, and identity.
-
-- 🎞️ Art direction, short form cinematics, surreal stills
-- 🔍 Exploration of isolation, energy, faith, and culture
-- 🔗 [Instagram](https://instagram.com/unathleticz) | [TikTok](https://tiktok.com/@unathleticz)
 
 ---
 
 ## 📜 Certifications & Affiliations
 
-- ✅ [CISA – Certified Info Systems Auditor](https://www.credly.com/badges/0ee8fad4-9207-4632-9639-c07e6d34e71b/public_url)  
-- 🧠 MATLAB / Simulink Certified  
-- 🏛 NSBE • ISACA • Systems Engineering Society  
+-  [CISA – Certified Info Systems Auditor](https://www.credly.com/badges/0ee8fad4-9207-4632-9639-c07e6d34e71b/public_url)  
+-  MATLAB / Simulink Certified  
+-  NSBE • ISACA • Systems Engineering Society  
 
 ---
 
@@ -138,25 +112,4 @@ I shoot in digital + 35mm film, blending narrative, composition, and identity.
   <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Maleek23&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 💬 Fun Fact  
-> *“The slash `/` is not a separator. It’s a portal between who I am and what I could become.”* — *UN/TITLD*
-
----
-
-<h2 align="center">🤝 Let’s Build Something Timeless</h2>
-
-<p align="center">
-   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" />
-</p>
-
-<p align="center">Made with 🔐 logic, ✨ magic, and ❤️ in between</p>
-
-<h1 align="center">⚡️ Stay Legendary ⚡️</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer Banner" />
 </p>
