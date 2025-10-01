@@ -28,8 +28,8 @@
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTg3MW1nOTVpdHoxa3R6Z3RlN2lrMjduY2owNW1oZjdvOThkMHZycCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MC6eSuC3yypCU/giphy.gif" />
 
 ###  I’m currently:
--  **Systems Engineer @ Collins Aerospace** (MBSE, MIL-STD, RF systems)  
 -  **Model Risk Engineer @ DTCC** (focused on Generative AI evaluation & LLM safety)  
+-  **Software Systems R&D Engineer @ Collins Aerospace** (MBSE, MIL-STD, RF systems, C++, Legacy systems)  
 -  Founder of **UN/TITLD** – creative identity collective blending motion + meaning  
 -  Research: ML metaheuristics • Simulation modeling • Embedded AI systems  
 -  Documenting this journey through visuals, rhythm, and pure tech
