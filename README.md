@@ -119,8 +119,17 @@ A visual research and creative identity platform exploring how **motion, systems
   
   <br/>
 
-  <!-- Streak tracking -->
-  <img src="https://streak-stats.demolab.com?user=Maleek23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak" />
+## 📈 GitHub Streaks
+
+<p align="center">
+  <!-- Daily streak -->
+  [![Daily Streak](https://streak-stats.demolab.com?user=Maleek23&mode=daily&theme=tokyonight&hide_border=true)](https://github.com/Maleek23)
+
+  <br/>
+
+  <!-- Weekly streak -->
+  [![Weekly Streak](https://streak-stats.demolab.com?user=Maleek23&mode=weekly&theme=tokyonight&hide_border=true)](https://github.com/Maleek23)
+</p>
 
   <br/>
 
