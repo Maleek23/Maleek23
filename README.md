@@ -111,16 +111,21 @@ A visual research and creative identity platform exploring how **motion, systems
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Analytics
 
 <p align="center">
-  <!-- Overview / language & repo stats (refreshes more often with cache_seconds) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Malik's GitHub stats" />
+  <!-- Activity summary -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Malik's%20Activity%20Overview&cache_seconds=1800" alt="GitHub stats" />
+  
+  <br/>
+
+  <!-- Streak tracking -->
+  <img src="https://streak-stats.demolab.com?user=Maleek23&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub streak" />
 
   <br/>
 
-  <!-- Contribution graph (daily commits heatmap) -->
-  <img src="https://ghchart.rshah.org/Maleek23" alt="GitHub contribution chart for Maleek23" />
+  <!-- Language breakdown -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 ---
