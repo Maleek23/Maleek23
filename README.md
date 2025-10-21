@@ -114,9 +114,13 @@ A visual research and creative identity platform exploring how **motion, systems
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true" />
+  <!-- Overview / language & repo stats (refreshes more often with cache_seconds) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Malik's GitHub stats" />
+
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Maleek23&theme=tokyonight&hide_border=true" />
+
+  <!-- Contribution graph (daily commits heatmap) -->
+  <img src="https://ghchart.rshah.org/Maleek23" alt="GitHub contribution chart for Maleek23" />
 </p>
 
 ---
