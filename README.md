@@ -113,28 +113,30 @@ A visual research and creative identity platform exploring how **motion, systems
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <!-- Activity summary -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Maleek23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Malik's%20Activity%20Overview&cache_seconds=1800" alt="GitHub stats" />
-  
-  <br/>
-
 ## 📈 GitHub Streaks
 
 <p align="center">
-  <!-- Daily streak -->
-  [![Daily Streak](https://streak-stats.demolab.com?user=Maleek23&mode=daily&theme=tokyonight&hide_border=true)](https://github.com/Maleek23)
-
+  <!-- Daily Streak -->
+  <a href="https://github.com/Maleek23">
+    <img src="https://streak-stats.demolab.com?user=Maleek23&mode=daily&theme=tokyonight&hide_border=true" alt="Daily Streak"/>
+  </a>
+  
   <br/>
 
-  <!-- Weekly streak -->
-  [![Weekly Streak](https://streak-stats.demolab.com?user=Maleek23&mode=weekly&theme=tokyonight&hide_border=true)](https://github.com/Maleek23)
+  <!-- Weekly Streak -->
+  <a href="https://github.com/Maleek23">
+    <img src="https://streak-stats.demolab.com?user=Maleek23&mode=weekly&theme=tokyonight&hide_border=true" alt="Weekly Streak"/>
+  </a>
 </p>
 
-  <br/>
+---
 
-  <!-- Language breakdown -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek23&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+## 🧠 Top Languages
+
+<p align="center">
+  <a href="https://github.com/Maleek23">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maleek23&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  </a>
 </p>
 
 ---
